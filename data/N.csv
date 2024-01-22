@@ -1,0 +1,71 @@
+Code,Name,High,Low,Close,Volume,Change,Link
+ADDA,AMEX Advance Decline Difference,14000,-65000,9000,0,37000,https://eoddata.com/stockquote/INDEX/ADDA.htm
+ADDC,CSE Advance Decline Difference,2700,-600,2400,0,8000,https://eoddata.com/stockquote/INDEX/ADDC.htm
+ADDE,ETFS Advance Decline Difference,"2,095",-336,"2,095",0,471,https://eoddata.com/stockquote/INDEX/ADDE.htm
+ADDN,NYSE Advance Decline Difference,8180,-7830,8160,0,3190,https://eoddata.com/stockquote/INDEX/ADDN.htm
+ADDQ,NASD Advance Decline Difference,5740,-9230,5730,0,5810,https://eoddata.com/stockquote/INDEX/ADDQ.htm
+ADDS,TSX Advance Decline Difference,5100,-2660,5100,0,2270,https://eoddata.com/stockquote/INDEX/ADDS.htm
+ADDT,Total Advance Decline Difference,"1,406","-1,678","1,398",0,937,https://eoddata.com/stockquote/INDEX/ADDT.htm
+ADDU,OTC US Advance Decline Difference,-4000,-468000,-7000,0,-10000,https://eoddata.com/stockquote/INDEX/ADDU.htm
+ADDV,TSXV Advance Decline Difference,3400,-8400,-6900,0,7400,https://eoddata.com/stockquote/INDEX/ADDV.htm
+ADDX,CAD Total Advance Decline Difference,4650,-3150,4650,0,3810,https://eoddata.com/stockquote/INDEX/ADDX.htm
+ADRA,AMEX Advance Decline Ratio,1130,0500,1080,0,0330,https://eoddata.com/stockquote/INDEX/ADRA.htm
+ADRC,CSE Advance Decline Ratio,1480,0940,1190,0,0560,https://eoddata.com/stockquote/INDEX/ADRC.htm
+ADRE,ETFS Advance Decline Ratio,4550,0750,4550,0,1620,https://eoddata.com/stockquote/INDEX/ADRE.htm
+ADRN,NYSE Advance Decline Ratio,2520,0400,2520,0,0810,https://eoddata.com/stockquote/INDEX/ADRN.htm
+ADRQ,NASD Advance Decline Ratio,1450,0530,1450,0,0460,https://eoddata.com/stockquote/INDEX/ADRQ.htm
+ADRS,TSX Advance Decline Ratio,1790,0620,1790,0,0420,https://eoddata.com/stockquote/INDEX/ADRS.htm
+ADRT,Total Advance Decline Ratio,1740,0490,1730,0,0540,https://eoddata.com/stockquote/INDEX/ADRT.htm
+ADRU,OTC US Advance Decline Ratio,09900,06800,09900,0,-00100,https://eoddata.com/stockquote/INDEX/ADRU.htm
+ADRV,TSXV Advance Decline Ratio,12000,07500,08100,0,01700,https://eoddata.com/stockquote/INDEX/ADRV.htm
+ADRX,CAD Total Advance Decline Ratio,1410,0750,1410,0,0350,https://eoddata.com/stockquote/INDEX/ADRX.htm
+ADVA,AMEX Advancing Stocks,1140,660,1110,"175,264,000",230,https://eoddata.com/stockquote/INDEX/ADVA.htm
+ADVC,CSE Advancing Stocks,1470,830,1470,"17,296,700",480,https://eoddata.com/stockquote/INDEX/ADVC.htm
+ADVE,ETFS Advancing Stocks,"2,685","1,008","2,685","1,853,330,000",221,https://eoddata.com/stockquote/INDEX/ADVE.htm
+ADVN,NYSE Advancing Stocks,"1,353",543,"1,351","2,881,660,000",157,https://eoddata.com/stockquote/INDEX/ADVN.htm
+ADVQ,NASD Advancing Stocks,"1,827","1,028","1,826","3,567,967,000",291,https://eoddata.com/stockquote/INDEX/ADVQ.htm
+ADVS,TSX Advancing Stocks,"1,148",430,"1,148","181,808,500",108,https://eoddata.com/stockquote/INDEX/ADVS.htm
+ADVT,Total Advancing Stocks,"3,294","1,642","3,288","6,624,891,000",471,https://eoddata.com/stockquote/INDEX/ADVT.htm
+ADVU,OTC US Advancing Stocks,"1,814",800,"1,794","1,342,472,000",10,https://eoddata.com/stockquote/INDEX/ADVU.htm
+ADVV,TSXV Advancing Stocks,2980,2010,2980,"32,834,000",350,https://eoddata.com/stockquote/INDEX/ADVV.htm
+ADVX,CAD Total Advancing Stocks,"1,593",730,"1,593","231,939,200",191,https://eoddata.com/stockquote/INDEX/ADVX.htm
+AORD,All Ordinaries Index,"7,679","7,576","7,652",0,77,https://eoddata.com/stockquote/INDEX/AORD.htm
+ASHD,AMEX Declining Stocks,13870,5540,6350,0,-1590,https://eoddata.com/stockquote/INDEX/ASHD.htm
+ASHF,AMEX Advances - Declines,"1,465",-395,"1,465",0,327,https://eoddata.com/stockquote/INDEX/ASHF.htm
+ASHR,AMEX Advance Decline Ratio,3300,0690,3300,0,0870,https://eoddata.com/stockquote/INDEX/ASHR.htm
+ASHU,AMEX Advancing Stocks,"2,100",820,"2,100",0,168,https://eoddata.com/stockquote/INDEX/ASHU.htm
+ATX,ATX - Austria,"3,361","3,340","3,344",0,1,https://eoddata.com/stockquote/INDEX/ATX.htm
+AVDA,AMEX Advances Declines Volume Difference,1065,-299,1065,0,2223,https://eoddata.com/stockquote/INDEX/AVDA.htm
+AVDC,CSE Advance Decline Volume Difference,4070,-1870,3830,0,13400,https://eoddata.com/stockquote/INDEX/AVDC.htm
+AVDE,ETFS Advances Declines Volume Difference,"1,035",-307,"1,035",0,918,https://eoddata.com/stockquote/INDEX/AVDE.htm
+AVDN,NYSE Advances Declines Volume Difference,"1,657",-233,"1,657",0,"1,824",https://eoddata.com/stockquote/INDEX/AVDN.htm
+AVDQ,NASD Advances Declines Volume Difference,"2,221",-510,"2,221",0,"1,490",https://eoddata.com/stockquote/INDEX/AVDQ.htm
+AVDS,TSX Advance Decline Volume Difference,6532,-3431,6532,0,15311,https://eoddata.com/stockquote/INDEX/AVDS.htm
+AVDT,Total Advances Declines Volume,"3,984",-694,"3,984",0,"3,536",https://eoddata.com/stockquote/INDEX/AVDT.htm
+AVDU,OTC US Advance Decline Volume Difference,1171,-5698,-2656,0,-7684,https://eoddata.com/stockquote/INDEX/AVDU.htm
+AVDV,TSXV Advance Decline Volume Difference,-409,-2778,-1701,0,-1678,https://eoddata.com/stockquote/INDEX/AVDV.htm
+AVDX,CAD Total Advance Decline Volume,5226,-5658,5213,0,14973,https://eoddata.com/stockquote/INDEX/AVDX.htm
+AVLD,AMEX Declining Volume,6146,330,5279,0,-3812,https://eoddata.com/stockquote/INDEX/AVLD.htm
+AVLF,AMEX Advance Decline Volume Difference,9179,-2369,9081,0,8864,https://eoddata.com/stockquote/INDEX/AVLF.htm
+AVLR,AMEX Advance Decline Vol Ratio,2770,0390,2720,0,1700,https://eoddata.com/stockquote/INDEX/AVLR.htm
+AVLU,AMEX Advancing Volume,"1,436",27,"1,436",0,505,https://eoddata.com/stockquote/INDEX/AVLU.htm
+AVRA,AMEX Advance Decline Volume Ratio,2540,0200,2540,0,2360,https://eoddata.com/stockquote/INDEX/AVRA.htm
+AVRC,CSE Advance Decline Volume Ratio,1300,0640,1280,0,0830,https://eoddata.com/stockquote/INDEX/AVRC.htm
+AVRE,ETFS Advance Decline Volume Ratio,2270,0560,2260,0,1170,https://eoddata.com/stockquote/INDEX/AVRE.htm
+AVRN,NYSE Advance Decline Volume Ratio,2350,0710,2350,0,1440,https://eoddata.com/stockquote/INDEX/AVRN.htm
+AVRQ,NASD Advance Decline Volume Ratio,2650,0640,2640,0,1300,https://eoddata.com/stockquote/INDEX/AVRQ.htm
+AVRS,TSX Advance Decline Volume Ratio,1560,0380,1560,0,1040,https://eoddata.com/stockquote/INDEX/AVRS.htm
+AVRT,Total Advance Decline Volume Ratio,2500,0690,2500,0,1400,https://eoddata.com/stockquote/INDEX/AVRT.htm
+AVRU,OTC US Advance Decline Volume Ratio,11200,05100,08300,0,-05700,https://eoddata.com/stockquote/INDEX/AVRU.htm
+AVRV,TSXV Advance Decline Volume Ratio,06500,03500,06500,0,-03400,https://eoddata.com/stockquote/INDEX/AVRV.htm
+AVRX,CAD Total Advance Decline Volume Ratio,1290,0420,1280,0,0670,https://eoddata.com/stockquote/INDEX/AVRX.htm
+AVVA,AMEX Advancing Volume,1753,59,1753,0,1486,https://eoddata.com/stockquote/INDEX/AVVA.htm
+AVVC,CSE Advancing Volume,1745,158,1729,0,924,https://eoddata.com/stockquote/INDEX/AVVC.htm
+AVVE,ETFS Advancing Volume,"1,853",143,"1,853",0,509,https://eoddata.com/stockquote/INDEX/AVVE.htm
+AVVN,NYSE Advancing Volume,"2,882",224,"2,882",0,"1,022",https://eoddata.com/stockquote/INDEX/AVVN.htm
+AVVQ,NASD Advancing Volume,"3,568",402,"3,568",0,732,https://eoddata.com/stockquote/INDEX/AVVQ.htm
+AVVS,TSX Advancing Volume,1818,94,1818,0,834,https://eoddata.com/stockquote/INDEX/AVVS.htm
+AVVT,Total Advancing Volume,"6,625",632,"6,625",0,"1,903",https://eoddata.com/stockquote/INDEX/AVVT.htm
+AVVU,OTC US Advancing Volume,"1,464",165,"1,342",0,-417,https://eoddata.com/stockquote/INDEX/AVVU.htm
+AVVV,TSXV Advancing Volume,3283,552,3283,0,-1850,https://eoddata.com/stockquote/INDEX/AVVV.htm
+AVVX,CAD Total Advancing Volume,2319,165,2319,0,742,https://eoddata.com/stockquote/INDEX/AVVX.htm
